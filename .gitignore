@@ -1,0 +1,21 @@
+# Build artefacts
+/build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Compiles object files and binaries
+*.o
+*.so
+*.a
+*.out
+*.eve
+
+# Temporary files
+*.log
+*.tmp
+
+# Logs and temporary files
+.vscode/
+.idea/
